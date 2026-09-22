@@ -66,4 +66,4 @@ If this is your first project, read the [Complete User Guide](USER_GUIDE.md), th
 
 **Product:** Meta Vibes Studio  
 **Documentation language:** English  
-**Operating model:** Local-first browser extension
+
