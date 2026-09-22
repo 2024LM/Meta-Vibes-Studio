@@ -21,10 +21,8 @@ Meta Vibes Studio is a browser extension for organizing projects, preparing scen
 
 1. Open Chrome or Edge.
 2. Open `chrome://extensions` (or `edge://extensions`).
-3. Enable **Developer mode**.
-4. Choose **Load unpacked** and select the project folder.
-5. Pin **Meta Vibes Studio** to the browser toolbar.
-6. Keep either `meta.ai` or `vibes.ai` open. The extension reports which supported site is active.
+3. Pin **Meta Vibes Studio** to the browser toolbar.
+4. Keep either `meta.ai` or `vibes.ai` open. The extension reports which supported site is active.
 
 The extension stores project state, preferences, statistics, and diagnostics locally in the browser. It does not require an account.
 
