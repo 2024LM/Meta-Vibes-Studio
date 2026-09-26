@@ -40,7 +40,7 @@ The extension does not replace Meta AI or Vibes.ai. It coordinates your prompts,
 
 ## Quick start
 
-1. Install the unpacked extension from `[chrome://extensions](https://chromewebstore.google.com/detail/meta-vibes-studio/knnkgfdihhhdiebdddeeaeeeknhnnmgf?authuser=0&hl=ar)` or `edge://extensions`.
+1. Install the unpacked extension from `[chrome](https://chromewebstore.google.com/detail/meta-vibes-studio/knnkgfdihhhdiebdddeeaeeeknhnnmgf)` or `edge://extensions`.
 2. Open Meta AI and launch Meta Vibes Studio from the browser toolbar.
 3. Create a project and give it a clear name.
 4. Add scene prompts and split them into cards.
